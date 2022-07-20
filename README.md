@@ -20,7 +20,7 @@
     justify-content: space-between;
 ## }
 
-Grid de cards "what we offer" `Services__ServicesContainer-sc-5pxhtd-3 jaLFFG`
+Grid de cards "what we offer" 
 ## .jaLFFG {
     text-align: center;
     display: grid;
@@ -32,7 +32,7 @@ Grid de cards "what we offer" `Services__ServicesContainer-sc-5pxhtd-3 jaLFFG`
     padding-top: 0px;
 ## }
 
-Texto "what we offer" `SectionInfo__TextContainer-sc-1g935x2-0 OfulL`
+Texto "what we offer" 
 ## .OfulL {
     display: flex;
     flex-direction: column;
